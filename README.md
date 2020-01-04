@@ -1,2 +1,3 @@
 # MakeMyFirstDjangoApp
-나의 첫 Django 앱 만들기👻
+### 나의 첫 Django 앱 만들기👻 [6/25]
+200104 : 섹션 1. Part 1. 장고 처음 배우기 ✔
